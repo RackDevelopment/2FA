@@ -1,2 +1,2 @@
-# 2FA+
-Simple 2FA plugin for your Minecraft server
+# 2FA
+An advanced fork of egg82's 2FAPlus
